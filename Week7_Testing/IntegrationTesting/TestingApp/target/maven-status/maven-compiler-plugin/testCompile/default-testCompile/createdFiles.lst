@@ -1,0 +1,5 @@
+com\Week7\TestingApp\controllers\EmployeeControllerTestIT.class
+com\Week7\TestingApp\TestingAppApplicationTests.class
+com\Week7\TestingApp\controllers\AbstractIntegrationTest.class
+com\Week7\TestingApp\TestContainerConfiguration.class
+com\Week7\TestingApp\repositories\EmployeeRepositoryTest.class
