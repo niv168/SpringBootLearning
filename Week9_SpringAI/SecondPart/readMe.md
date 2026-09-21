@@ -1,0 +1,1 @@
+This version contains RAG code. How to ingest pdf to vector store by splitting in chunks, How to do similarity search based on user query and then augment data from vector store to query to retrieve correct ans etc
